@@ -1,0 +1,6 @@
+{
+  "name": "test-lambda-function-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

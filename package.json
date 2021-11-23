@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BlakeEvans22/test-lambda-function-01/issues"
   },
-  "homepage": "https://github.com/BlakeEvans22/test-lambda-function-01#readme"
+  "homepage": "https://github.com/BlakeEvans22/test-lambda-function-01#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
 }
